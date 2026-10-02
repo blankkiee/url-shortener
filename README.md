@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Tech Stack
+
+- **[Next.js 16](https://nextjs.org)** — React framework (App Router) handling both the pages and the backend routes
+- **[React 19](https://react.dev)** — UI library used to build the components
+- **[TypeScript](https://www.typescriptlang.org)** — adds type-checking on top of JavaScript
+- **[Tailwind CSS 4](https://tailwindcss.com)** — utility-class based styling
+- **[ESLint](https://eslint.org)** — lints the code for common mistakes/style issues
+
 ## Getting Started
 
 First, run the development server:
